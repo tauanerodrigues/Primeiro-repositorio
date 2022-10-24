@@ -3,6 +3,6 @@
 Para copiar o código em HTML;
 ´´´
 <html>
-<h1> Meu primeiro arquivo no meu repositório</h1>
+<h1> meu primeiro arquivo no meu repositório</h1>
 <html>
   ´´´
